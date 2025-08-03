@@ -33,20 +33,20 @@ Edit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mamoonkhan19/c-.git
+   git clone https://github.com/Mamoonkhan19/leetcodeProblems
 Navigate to the folder
 
 bash
 Copy
 Edit
-cd c-
+cd leetcodeProblems
 Compile & Run (example)
 
 bash
 Copy
 Edit
-g++ two_sum.cpp -o two_sum
-./two_sum
+g++ etc.cpp -o two_sum
+./a.out
 🧠 Topics Covered
 Arrays & Strings
 
@@ -78,9 +78,5 @@ Submit a pull request
 
 📜 License
 This project is licensed under the MIT License – free to use and share.
-
-pgsql
-Copy
-Edit
-
-Do you also want me to **create a custom banner image** (with your name and "LeetCode Solutions in C++") that you can add at the top of this README? Or keep it simple with just text and badges?
+#Gmail
+farooqalam197676@gmail.com
